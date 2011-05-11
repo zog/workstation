@@ -1,0 +1,1 @@
+open `ruby generate_chart.rb`
